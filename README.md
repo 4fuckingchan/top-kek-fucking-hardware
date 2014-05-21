@@ -14,3 +14,5 @@ Put anime girls everywhere
 ???
 
 PROFIT!!!
+
+Make it fucking RISC or CISC; ARM or ia-32 (x86)?
